@@ -1,3 +1,7 @@
+[![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4%EF%B8%8F-red?style=flat)](https://github.com/你的用户名/WhiskerAI)
+[![Cat Approved](https://img.shields.io/badge/CAT-APPROVED-green?style=flat&logo=cat)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Smell Accuracy](https://img.shields.io/badge/Sniffing%20Accuracy-87%25-yellow?style=flat)](https://github.com/你的用户名/WhiskerAI/issues/1)
+
 # 🐾 WhiskerAI | 让AI拥有猫的嗅觉与诗意  
 
      > *"我们教AI闻见瓦斯泄漏前的焦虑、抑郁症呼吸里的叹息，  
